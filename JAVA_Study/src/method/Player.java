@@ -7,6 +7,7 @@ public class Player {
 		
 		CharClass charClass = new CharClass();
 		charClass.userName("¹ÚºÀÈ£");
+		charClass.userLevel(4);
 				
 		KnightClass knightclass = new KnightClass();
 		knightclass.skill(6);
